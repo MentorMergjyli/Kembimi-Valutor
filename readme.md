@@ -32,12 +32,12 @@ Hap XAMPP Control Panel dhe shtyp Start në shërbimin Apache.
 
 Kopjo dosjen e projektit kembimi në këtë rrugë:
 
-C:\xampp\htdocs\kembimi
+C:\xampp\htdocs\detyre\indextori2
 
 
 Hap shfletuesin dhe shkruaj:
 
-http://localhost/kembimi/index.php
+http://localhost/detyre/indextori2.php
 
 
 Vendos shumën në Euro dhe kursin e këmbimit, pastaj kliko Afisho.
@@ -78,4 +78,5 @@ Nëse përdoruesi fut një vlerë zero ose negative, shfaqet mesazhi:
 
 Mentori
 📅 Projekti përditësuar: Tetor 2025
+
 💬 Për çdo pyetje ose përmirësim, mund të shtosh komente në kod ose README.
